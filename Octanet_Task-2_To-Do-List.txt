@@ -1,0 +1,17 @@
+Name :- Shreyas Hiru Vanage
+
+Web Development intern at Octanet
+
+Task-2  :- To Do List
+
+Github link :-  
+https://github.com/Shreyas-Vanage/OCTANET_JULY_TASK-2
+
+Ide :- VS code
+
+Language :- HTML , CSS , JavaScript
+
+Details :-
+1. Created To Do list.
+2. I have used HTML , CSS , JavaScript.
+3. It has features like setting Priority , Labels , Date selection , etc.
