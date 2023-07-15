@@ -7,7 +7,7 @@ Task-2  :- To Do List
 Github link :-  
 https://github.com/Shreyas-Vanage/OCTANET_JULY_TASK-2
 
-Ide :- VS code
+IDE :- VS code
 
 Language :- HTML , CSS , JavaScript
 
